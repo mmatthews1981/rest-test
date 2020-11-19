@@ -6,6 +6,7 @@
     {"name": "O", "value": 0.202},
     {"name": "I", "value": 0.52},
     {"name": "W", "value": 0.4},
-    {"name": "Y", "value": 0.7}
+    {"name": "Y", "value": 0.7},
+    {"name": "H", "value": 0.9999999}
 ]
 }
